@@ -1,0 +1,5 @@
+document.write('<div id="footer">')
+document.write('Strona istnieje od / Site has existed since 07-09-1998.')
+document.write(' Ostatnia aktualizacja / Last changed 11-07-2023.<br />')
+document.write('Copyright &copy; <b> Za wzgórzem </b>')
+document.write('Design by <a href="https://templatemo.com/tm-449-green">templatemo.com</a>.</div>')
