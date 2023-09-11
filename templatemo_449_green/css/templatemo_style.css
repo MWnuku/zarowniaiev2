@@ -13,7 +13,7 @@ body { font: 13px/1.85em 'Open Sans', Arial, Helvetice Neue, sans-serif; color: 
 html {  
 
 	}
-img { width: 100%;}
+img { width: 100%; margin-bottom: 10px}
 a, a:hover, a:focus { text-decoration: none; color: #ffffff;}
 
 h1, h2, h3, h4, h5, h6 { font-family: 'Open Sans', Arial, Helvetice Neue, sans-serif; }
