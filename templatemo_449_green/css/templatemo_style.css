@@ -4,21 +4,23 @@ Green Template
 http://www.templatemo.com/preview/templatemo_449_green
 
 */
+
+
 .zdziarzec img{
 	width: fit-content;
 }
 
-body { font: 13px/1.85em 'Open Sans', Arial, Helvetice Neue, sans-serif; color: #fff; font-weight: 300; font-style: normal; -webkit-font-smoothing: antialiased; /* Fix for webkit rendering */ -webkit-text-size-adjust: 100%; background: url(../images/templatemo_pagebg.jpg) no-repeat #01090c top center; background-attachment: fixed; }
+body { font: 13px/1.85em 'Open Sans', Arial, Helvetice Neue, sans-serif; color: #ffffff; font-weight: 300; font-style: normal; -webkit-font-smoothing: antialiased; /* Fix for webkit rendering */ -webkit-text-size-adjust: 100%; background: url(../images/templatemo_pagebg.jpg) no-repeat #01090c top center; background-attachment: fixed; }
 
 html {  
 
 	}
 img { width: 100%; margin-bottom: 10px}
-a, a:hover, a:focus { text-decoration: none; color: #ffffff;}
+a, a:hover, a:focus { text-decoration: none; color: #02e0f8;}
 
 h1, h2, h3, h4, h5, h6 { font-family: 'Open Sans', Arial, Helvetice Neue, sans-serif; }
 
-h1 { width: 100%; font-size: 36px; color: #747474; text-align: center; }
+h1 { width: 100%; font-size: 36px; color: #FFFFFF; text-align: center; }
 
 ::-webkit-input-placeholder {
    color: #333333;
@@ -48,13 +50,13 @@ h1 { width: 100%; font-size: 36px; color: #747474; text-align: center; }
 	font-family: 'Oswald', sans-serif;
 	font-weight: bold;
 	text-align: center;
-	color: #0d636f;
+	color: #0a7e8b;
 	}
 .templatemo_home_top img{ width: 100%;}
 .templatemo_home_top_left, .templatemo_hist_left {
     background: url(../images/templatemo_hometop_bg.png) no-repeat #0a4651;
 	background-position: top right;
-	color: #8cd2de;
+	color: #ffffff;
 	/*margin-right: -30px;*/
 	border-left: 1px solid #0a7e8b;
 	border-bottom: 1px solid #0a7e8b;
@@ -258,7 +260,7 @@ h1 { width: 100%; font-size: 36px; color: #747474; text-align: center; }
 	background: url(../images/templatemo_hometop_bg.png) no-repeat #0a4651;
 	background-position: top right;
 	padding: 50px 30px;
-	color: #adf2ff;
+	color: #ffffff;
 	}
 .templatemo_about_top_title {
 	color: #ffffff;

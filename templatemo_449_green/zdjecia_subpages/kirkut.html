@@ -27,6 +27,7 @@
         <script src="../js/templatemo_custom.js"></script> <!-- lightbox -->
         <script src="../js/bootstrap-collapse.js"></script>
         <script src="../js/jquery-ui.min.js"></script> <!-- popular tab -->
+        <script src="../inner_menu.js"></script>
     </head>
     <body>
     <div class="container menu">
@@ -52,14 +53,12 @@
                         <!-- Collect the nav links, forms, and other content for toggling -->
                         <div id="top-menu">
                             <div class="collapse navbar-collapse main_menu" id="bs-example-navbar-collapse-1">
-                                <ul class="nav navbar-nav">
-                                    <li class="current"><a href="../index.html">Witamy</a></li>
-                                    <li><a href="../wydarzenia.html">Wydarzenia</a></li>
-                                    <li><a href="../onas.html">O nas</a></li>
-                                    <li><a href="../historia.html">Historia</a></li>
-                                    <li><a href="../galeria.html">Galeria</a></li>
-                                    <li><a href="../kontakt.html">Kontakt</a></li>
-                                </ul>
+                                <script>
+                                    document.addEventListener("DOMContentLoaded", function () {
+                                        const targetElement = document.getElementById("menu-container");
+                                        generateMenu(targetElement);
+                                    })
+                                </script>
                             </div>
                         </div>
                         <!-- /.navbar-collapse -->
@@ -117,5 +116,6 @@
                 </div>
             </div>
         </div>
+    </div>
     </body>
     </html>

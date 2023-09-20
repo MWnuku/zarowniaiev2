@@ -3,8 +3,8 @@ function generateMenu(targetElement) {
     <div id="top-menu">
       <div class="collapse navbar-collapse main_menu" id="bs-example-navbar-collapse-1">
         <ul class="nav navbar-nav">
-                    <li class="current"><a href="index.html">Witamy</a></li>
-                    <li><a href="wydarzenia.html">Aktualności</a></li>
+                    <li><a href="index.html">Witamy</a></li>
+                    <li class="current"><a href="wydarzenia.html">Aktualności</a></li>
                     <li><a href="region.html">Region</a></li>
                     <li><a href="parafie.html">Parafie</a></li>
                     <li><a href="historia.html">Historia</a></li>
